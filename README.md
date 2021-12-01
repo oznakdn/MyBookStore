@@ -4,7 +4,6 @@
  ##### 1- Microsoft.EntityFrameworkCore.SqlServer
  ##### 2- Microsoft.EntityFrameworkCore.Tools
  ##### 3- Microsoft.EntityFrameworkCore.Design
- ##### 4- Microsoft.EntityFrameworkCore.Design
 ### For Identity
  ##### 1- Microsoft.AspNetCore.Identity.EntityFrameworkCore
  ##### 2- Microsoft.Extensions.Identity.Core
